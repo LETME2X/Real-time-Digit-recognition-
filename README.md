@@ -17,7 +17,7 @@ This project uses OpenCV and TensorFlow to create a real-time handwritten digit 
 
 ## Installation
 1. Clone the repository:  
-   `git clone https://github.com/your-username/Handwritten-Digit-Real-Time-Recognition.git`
+   `git clone https://github.com/LETME2X/Handwritten-Digit-Real-Time-Recognition.git`
 2. Install required libraries:  
    `pip install -r requirements.txt`
 3. Run the project:  
