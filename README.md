@@ -29,19 +29,3 @@ This project uses OpenCV and TensorFlow to create a real-time handwritten digit 
 3. Hold the paper in front of the webcam.
 4. The system will detect and recognize digits in real-time.
 
-## Model Training
-The CNN model is trained on the MNIST dataset. To retrain:
-1. Download the MNIST dataset.
-2. Modify `train_model.py` as needed.
-3. Run the script to train the model.
-
-## License
-This project is licensed under the MIT License.
-
-## Contributing
-Contributions are welcome! Fork, make changes, and submit a pull request.
-
-## Acknowledgments
-- MNIST dataset
-- OpenCV documentation
-- TensorFlow documentation
